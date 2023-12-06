@@ -11,6 +11,7 @@
 		761F35B02B2074910075C24F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761F35AF2B2074910075C24F /* ContentView.swift */; };
 		761F35B22B2074920075C24F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 761F35B12B2074920075C24F /* Assets.xcassets */; };
 		761F35B52B2074920075C24F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 761F35B42B2074920075C24F /* Preview Assets.xcassets */; };
+		761F35BC2B2075140075C24F /* GroceryListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761F35BB2B2075140075C24F /* GroceryListItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		761F35AF2B2074910075C24F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		761F35B12B2074920075C24F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		761F35B42B2074920075C24F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		761F35BB2B2075140075C24F /* GroceryListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroceryListItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				761F35AD2B2074910075C24F /* GroceryListApp.swift */,
 				761F35AF2B2074910075C24F /* ContentView.swift */,
+				761F35BB2B2075140075C24F /* GroceryListItem.swift */,
 				761F35B12B2074920075C24F /* Assets.xcassets */,
 				761F35B32B2074920075C24F /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				761F35B02B2074910075C24F /* ContentView.swift in Sources */,
+				761F35BC2B2075140075C24F /* GroceryListItem.swift in Sources */,
 				761F35AE2B2074910075C24F /* GroceryListApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
